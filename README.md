@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clara
-- 👀 I’m interested in HTML, CSS, JS, PHP, JQUERY, SQL, NodeJS, Typescript, Flutter, VueJS, GBStudio, Blender
+- 👀 I’m interested in HTML, CSS, JS, PHP, JQUERY, SQL, NodeJS, Typescript, Flutter, VueJS, GBS tudio, Blender
 - 🌱 I’m currently learning fullstack dev
 
 <!---
