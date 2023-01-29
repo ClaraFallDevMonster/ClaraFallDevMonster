@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Clara
-- 👀 I’m interested in HTML, CSS, JS, PHP, JQUERY, SQL, NodeJS, Typescript, Flutter, VueJS, GB Studio, Blender
-- 🌱 I’m currently learning fullstack dev
+- 👋 Hi, I’m Clara, a Junior Fullstack Dev.
+- 👀 Skills: HTML, CSS, JavaScript, PHP, JQUERY, Bootstrap, SQL and more.
+- 🌱 I’m currently learning Node.js, Express.js and React.js.
 
 <!---
 ClaraFallDevMonster/ClaraFallDevMonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
